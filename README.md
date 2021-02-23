@@ -1,6 +1,6 @@
 ## Getting Ready with Python
 
-### Installing Python 3, And Launching Python Shell or Command Prompt
+### Installing Python 3, And Launching Jupyter Notebook or Command Prompt
 
 Installing Python is really a cakewalk. Search for "Python download" on www.google.com. Download the installable and install it.
 
